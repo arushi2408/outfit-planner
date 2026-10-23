@@ -1,0 +1,21 @@
+
+[
+  {
+    "name": "Casual White Top",
+    "category": "top",
+    "image": "https://images.unsplash.com/photo-1551163943-3f6a855d1153?w=400",
+    "occasion": "casual"
+  },
+  {
+    "name": "Classic Blue Jeans",
+    "category": "jeans",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=400",
+    "occasion": "casual"
+  },
+  {
+    "name": "Black Dress",
+    "category": "dress",
+    "image": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?w=400",
+    "occasion": "party"
+  }
+]
